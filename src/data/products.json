@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Soleil Ring",
+    "category": "ring",
+    "material": "18k gold-plated",
+    "price": 148,
+    "badge": "Bestseller",
+    "iconType": "ring",
+    "description": "The Soleil Ring draws inspiration from the radiant patterns of West African kente weaving. A faceted diamond-cut stone sits atop a smoothly tapered gold band, catching light from every angle. Handcrafted by artisans in Accra using 18k gold-plated brass over a recycled base."
+  },
+  {
+    "id": 2,
+    "name": "Adisa Pendant",
+    "category": "necklace",
+    "material": "Sterling silver",
+    "price": 195,
+    "badge": "New",
+    "iconType": "pendant",
+    "description": "Named after the Yoruba word for 'one who is clear', the Adisa Pendant is a refined heart-drop silhouette in polished sterling silver. The concentric circle detail at its centre echoes adinkra symbolism. Comes on an 18-inch fine silver chain, adjustable to 20 inches."
+  },
+  {
+    "id": 3,
+    "name": "Kente Drop",
+    "category": "earring",
+    "material": "Gold vermeil",
+    "price": 112,
+    "badge": null,
+    "iconType": "dropEarring",
+    "description": "These elongated drop earrings celebrate the bold geometry of Kente cloth. Crafted in gold vermeil over sterling silver, the oval pendant features an inner faceted surface that shimmers as you move. Lightweight and comfortable for all-day wear."
+  },
+  {
+    "id": 4,
+    "name": "Zara Cuff",
+    "category": "bracelet",
+    "material": "Brass, hand-hammered",
+    "price": 220,
+    "badge": "New",
+    "iconType": "cuff",
+    "description": "The Zara Cuff is a statement piece rooted in the hammered metalwork traditions of Ethiopian silversmiths. Each piece is individually textured by hand, meaning no two are identical. The open-ended C-shape fits most wrists and is finished with a polished interior for comfort."
+  },
+  {
+    "id": 5,
+    "name": "Soro Hoops",
+    "category": "earring",
+    "material": "Gold-filled",
+    "price": 98,
+    "badge": "Bestseller",
+    "iconType": "hoop",
+    "description": "Classic hoop silhouette elevated with a textured outer ridge inspired by Malian mud-cloth patterns. Made from gold-filled wire with a sturdy hinged closure. A wardrobe staple that pairs with everything from boardroom to beach."
+  },
+  {
+    "id": 6,
+    "name": "Layered Chain",
+    "category": "necklace",
+    "material": "14k gold-plated",
+    "price": 165,
+    "badge": null,
+    "iconType": "layeredChain",
+    "description": "Three fine cable chains of graduated lengths, pre-layered on a single clasp so they always fall perfectly. A delicate oval charm anchors the longest strand. The 14k gold-plated brass construction keeps the look luxurious at an accessible price point."
+  },
+  {
+    "id": 7,
+    "name": "Nile Band",
+    "category": "ring",
+    "material": "Sterling silver",
+    "price": 88,
+    "badge": "New",
+    "iconType": "ring",
+    "description": "Inspired by the gentle curves of the Nile delta, this slim sterling silver band features a delicately engraved wave motif along its outer face. Stacks beautifully with other bands or makes a quiet statement worn alone. Available in sizes 5–10."
+  },
+  {
+    "id": 8,
+    "name": "Sahara Collar",
+    "category": "necklace",
+    "material": "Brass, oxidised",
+    "price": 245,
+    "badge": null,
+    "iconType": "pendant",
+    "description": "A bold yet refined collar necklace drawing on the geometric jewellery traditions of the Tuareg people of the Sahara. Oxidised brass creates a rich dark finish that highlights the hand-engraved sunburst details. Sits high on the collarbone for a sculptural effect."
+  },
+  {
+    "id": 9,
+    "name": "Dahomey Studs",
+    "category": "earring",
+    "material": "18k gold-plated",
+    "price": 75,
+    "badge": "Bestseller",
+    "iconType": "hoop",
+    "description": "Petite stud earrings shaped as eight-pointed stars, a motif found throughout the royal court art of the ancient Kingdom of Dahomey. Cast in 18k gold-plated brass with sterling silver posts. Effortlessly elegant for everyday wear."
+  },
+  {
+    "id": 10,
+    "name": "Ife Bangle",
+    "category": "bracelet",
+    "material": "Gold vermeil",
+    "price": 178,
+    "badge": null,
+    "iconType": "bangle",
+    "description": "The Ife Bangle takes its name from the ancient Yoruba city renowned for its extraordinary bronze and gold castings. A seamless round bangle in gold vermeil, its inner surface is etched with a continuous band of geometric Ife-inspired motifs. Slips on easily and sits beautifully on the wrist."
+  },
+  {
+    "id": 11,
+    "name": "Kemet Collar Ring",
+    "category": "ring",
+    "material": "Gold-filled",
+    "price": 135,
+    "badge": null,
+    "iconType": "ring",
+    "description": "A wide-band statement ring with a carved scarab motif, referencing the jewellery of ancient Kemet (Egypt). Made in gold-filled metal for durability and a lasting finish. The slightly domed profile gives it a presence on the hand without feeling heavy."
+  },
+  {
+    "id": 12,
+    "name": "Volta Wrap",
+    "category": "bracelet",
+    "material": "Sterling silver",
+    "price": 142,
+    "badge": "New",
+    "iconType": "cuff",
+    "description": "A double-wrap bracelet with a thin sterling silver chain woven through hand-formed loops, inspired by the woven rattan craft traditions along the Volta River. Fastens with a simple lobster clasp. Lightweight and versatile, equally suited to casual or formal occasions."
+  }
+]
